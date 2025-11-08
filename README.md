@@ -6,7 +6,7 @@ INSTALLATION REQUIREMENTS: pgAdmin4
 
 01: Within pgAdmin, create a new database called Assignment3.
 
-02: Within the Assignment3 database, open the file called "table_creation.sql". Execute the script to create the necessary tables and fill it with the necessary data.
+02: Within the Assignment3 database, open the file called "table_creation.sql". Execute the script to create the necessary table and fill it with the necessary data.
 
 RUNNING THE CODE
 INSTALLATION REQUIREMENTS: Python 3.X, PostgreSQL, psycopg2 package
