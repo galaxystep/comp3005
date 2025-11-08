@@ -1,7 +1,7 @@
 # comp3005
 for assignment 3, question 1.
 
-VIDEO DEMONSTRATION LINK: https://youtu.be/wIQM26nYQYs
+VIDEO DEMONSTRATION LINK: https://youtu.be/S4ZJzKidteE
 
 DATABASE SETUP:
 INSTALLATION REQUIREMENTS: pgAdmin4
