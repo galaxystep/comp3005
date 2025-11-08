@@ -12,6 +12,7 @@ RUNNING THE CODE
 INSTALLATION REQUIREMENTS: Python 3.X, PostgreSQL, psycopg2 package
 
 Steps to compile and run the application:
+
 01: INSTALL POSTGRES/PYTHON CONNECTION LIBRARY
 Write "pip install psycopg2" into your command line to install the necessary libraries.
 
@@ -22,4 +23,4 @@ Change the values to ones that concern your setup (your password, port, etc.). Y
 In order to run the application, open a command line and type "python connection.py". You'll have a chance to test the functions within the application.
 
 04: VERIFY THE RESULTS
-You're able to verify the results of the application by checking pgAdmin.
+You're able to verify the results of the application by checking the databse in pgAdmin.
